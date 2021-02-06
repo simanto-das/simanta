@@ -1,0 +1,6 @@
+,
+blue shoe,1200
+football,1600
+jersy,600
+blue,120
+red,120
